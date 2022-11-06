@@ -1,0 +1,23 @@
+.cal-screen {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  width: 100%;
+  color: white;
+  overflow-x: auto;
+  box-sizing: border-box;
+
+  &:after {
+    content: '';
+    display: block;
+    height: 0;
+    padding-bottom: 30%;
+  }
+
+  &__result {
+    width: 100%;
+    position: relative;
+    overflow: auto;
+    text-align: end;
+  }
+}
