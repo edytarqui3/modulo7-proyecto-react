@@ -1,41 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# MÓDULO 7 - REACTJS
+# Integrantes
+1. Edy Felix Tarqui Guarachi  CI:. 6154087 LP
+
+# Proyecto Final React:
+## Instrucciones: 
+ Demostrar los conocimientos adquiridos en la creación de un proyecto en React
+
+1. Crear uno de estos componentes (Elegir uno)
+
+    - [x] a. Modal
+    - [ ] b. Drawer
+
+2. Ya seleccionado el componente se debe utilizar Storybook para crear dicho componente:
+
+3. Publicar el componente utilizando github pages
+
+4. Una vez terminado enviar al classroom el código fuente comprimido en formato
+.zip o .rar más el enlace generado por github pages:
+## Nota:
+Se puede utilizar estos componentes como ejemplo:
+Para el modal https://mui.com/material-ui/react-dialog/
+Para el drawer https://mui.com/material-ui/react-drawer/
+
+El plazo de entrega es a partir de las 20:00 horas del viernes 4 de noviembre hasta las 23:59 horas del 7 de noviembre del presente año 2022.
+
+    This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 It also uses [Storybook](https://storybook.js.org/) to show use cases of components.
 
-## Demo
-  - [React App](https://rudanzona.github.io/react-calculator-modal/)
-  - [Storybook](https://rudanzona.github.io/react-calculator-modal/storybook/)
+## Demostracion
+  - [React App](https://edytarqui3.github.io/calculadora-modal/)
+  - [Storybook](https://edytarqui3.github.io/calculadora-modal/storybook/)
 
-## Docker-based Development
-In this project, you can run the app by docker or docker-compose
-
-### `docker-compose up`
-Runs the app in the development mode and runs [Storybook](https://storybook.js.org/) for components.<br />
-Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
-Open [http://localhost:9009](http://localhost:9009) to view the storybook in the browser.
-
-The page will reload if you make edits.<br />
-Use `Ctrl+C` to stop the container.
-
-### `docker-compose -f docker-compose.prod.yml up`
-Runs the app in the production mode with built static files under nginx.<br />
-Open [http://localhost](http://localhost) to view it in the browser.
-
-Use `Ctrl+C` to stop the container.
-
-### `docker container ls`
-Shows the list of docker containers.
-
-### `docker exec -it ${CONTAINER_ID} bash`
-Execute an interactive bash shell on the container.
-
-### `docker container prune`
-Remove all stopped containers.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm run start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -43,12 +44,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `yarn test`
+### `npm run test`
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -58,16 +59,16 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn deploy`
+### `npm run deploy`
 Deploy React app and storybook to Github pages.
 
-### `yarn storybook`
+### `npm run storybook`
 Run storybook app to show use cases of the components.
 
-### `yarn build-storybook`
+### `npm run build-storybook`
 Build static files of storybook app.
 
-### `yarn eject`
+### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 

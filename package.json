@@ -1,8 +1,8 @@
 {
-  "name": "react-calculator-modal",
-  "version": "0.1.0",
+  "name": "calculadora-modal",
+  "version": "0.0.1",
   "private": true,
-  "homepage": "https://rudanzona.github.io/react-calculator-modal/",
+  "homepage": "https://edytarqui3.github.io/calculadora-modal/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
     "@testing-library/jest-dom": "^4.2.4",

@@ -5,7 +5,7 @@ import useModal from '../../../src/hooks/useModal'
 import useWindowSize, { WindowSizeContext } from '../../../src/hooks/useWindowSize'
 
 export default {
-  title: 'CalculatorHookModal',
+  title: 'CalculadoraHookModal',
   component: CalculatorHookModal,
 }
 
