@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/modulo7-proyecto-react/static/css/main.c8882741.chunk.css",
+    "main.js": "/modulo7-proyecto-react/static/js/main.6c16977b.chunk.js",
+    "main.js.map": "/modulo7-proyecto-react/static/js/main.6c16977b.chunk.js.map",
+    "runtime-main.js": "/modulo7-proyecto-react/static/js/runtime-main.9f4c593c.js",
+    "runtime-main.js.map": "/modulo7-proyecto-react/static/js/runtime-main.9f4c593c.js.map",
+    "static/js/2.482abe33.chunk.js": "/modulo7-proyecto-react/static/js/2.482abe33.chunk.js",
+    "static/js/2.482abe33.chunk.js.map": "/modulo7-proyecto-react/static/js/2.482abe33.chunk.js.map",
+    "index.html": "/modulo7-proyecto-react/index.html",
+    "precache-manifest.3efc7dc1aa4e6bdffaf877b2513389ad.js": "/modulo7-proyecto-react/precache-manifest.3efc7dc1aa4e6bdffaf877b2513389ad.js",
+    "service-worker.js": "/modulo7-proyecto-react/service-worker.js",
+    "static/css/main.c8882741.chunk.css.map": "/modulo7-proyecto-react/static/css/main.c8882741.chunk.css.map",
+    "static/js/2.482abe33.chunk.js.LICENSE.txt": "/modulo7-proyecto-react/static/js/2.482abe33.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/modulo7-proyecto-react/static/media/logo.6ebab807.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f4c593c.js",
+    "static/js/2.482abe33.chunk.js",
+    "static/css/main.c8882741.chunk.css",
+    "static/js/main.6c16977b.chunk.js"
+  ]
+}
