@@ -28,8 +28,8 @@ El plazo de entrega es a partir de las 20:00 horas del viernes 4 de noviembre ha
 It also uses [Storybook](https://storybook.js.org/) to show use cases of components.
 
 ## Demostracion
-  - [React App](https://edytarqui3.github.io/calculadora-modal/)
-  - [Storybook](https://edytarqui3.github.io/calculadora-modal/storybook/)
+  - [React App](https://edytarqui3.github.io/modulo7-proyecto-react/)
+  - [Storybook](https://edytarqui3.github.io/modulo7-proyecto-react/storybook/)
 
 
 ## Available Scripts
